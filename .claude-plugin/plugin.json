@@ -1,0 +1,6 @@
+{
+  "name": "react-architecture",
+  "version": "1.0.0",
+  "description": "Frontend architecture guideline for React + TypeScript + Vite projects using Feature-Sliced Design",
+  "keywords": ["react", "typescript", "fsd", "architecture", "frontend", "vite"]
+}
