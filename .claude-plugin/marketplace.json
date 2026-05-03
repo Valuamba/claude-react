@@ -1,4 +1,9 @@
 {
+  "name": "Valuamba-claude-react",
+  "owner": {
+    "name": "Valentin Marchuk",
+    "url": "https://github.com/Valuamba"
+  },
   "plugins": [
     {
       "name": "react-architecture",
