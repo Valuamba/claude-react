@@ -1,6 +1,29 @@
 {
   "name": "react-architecture",
   "version": "1.0.0",
-  "description": "Frontend architecture guideline for React + TypeScript + Vite projects using Feature-Sliced Design",
-  "keywords": ["react", "typescript", "fsd", "architecture", "frontend", "vite"]
+  "description": "Frontend architecture guideline enforcing Feature-Sliced Design, usePresenter pattern, DTO/mapper/domain separation, TanStack Query for server state, and correct dependency direction for React + TypeScript + Vite projects.",
+  "author": {
+    "name": "Valuamba",
+    "url": "https://github.com/Valuamba"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/Valuamba/claude-react",
+  "repository": "https://github.com/Valuamba/claude-react",
+  "keywords": [
+    "react",
+    "typescript",
+    "vite",
+    "feature-sliced-design",
+    "fsd",
+    "architecture",
+    "frontend",
+    "tanstack-query",
+    "react-router",
+    "zustand",
+    "react-hook-form",
+    "zod",
+    "css-modules",
+    "presenter-pattern",
+    "dto-mapper"
+  ]
 }

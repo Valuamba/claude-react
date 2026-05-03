@@ -1,14 +1,17 @@
 {
-  "name": "Valuamba-claude-react",
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "valuamba-claude-react",
   "owner": {
-    "name": "Valentin Marchuk",
-    "url": "https://github.com/Valuamba"
+    "name": "Valuamba"
+  },
+  "metadata": {
+    "description": "React + TypeScript frontend architecture guideline for Claude Code"
   },
   "plugins": [
     {
       "name": "react-architecture",
-      "description": "Frontend architecture guideline for React + TypeScript + Vite projects using Feature-Sliced Design",
-      "source": "./"
+      "source": "./",
+      "description": "Frontend architecture guideline enforcing Feature-Sliced Design, usePresenter pattern, DTO/mapper/domain separation, TanStack Query for server state, and correct dependency direction for React + TypeScript + Vite projects."
     }
   ]
 }
