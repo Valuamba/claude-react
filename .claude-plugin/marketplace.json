@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    {
+      "name": "react-architecture",
+      "description": "Frontend architecture guideline for React + TypeScript + Vite projects using Feature-Sliced Design",
+      "source": "./"
+    }
+  ]
+}
